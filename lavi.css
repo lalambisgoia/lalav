@@ -1,0 +1,14 @@
+.cabecalho
+{
+    background: color #383d58;
+    color: white
+
+}
+.imagem{
+    width: 20%
+
+}
+.lista{
+    display: inline-block;
+    margin: 0 16px;
+}
